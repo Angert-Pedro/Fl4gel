@@ -1,13 +1,13 @@
 <h1 align="center">Hi, my name is Pedro</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🔭 I’m currently improving my skills in **Java**
+- 🔭 I’m currently improving my skills in .NET
 
-- 🌱 I'm fluent in portuguese and **advanced level in english**
+- 🌱 I'm fluent in portuguese and advanced level in english
 
-- 👯 I’m looking for oportunities to **gain new experiences**
+- 👯 I’m looking for oportunities to gain more experience
 
-- 🤝 Feel free to message me through my email **Pedroangert@gmail.com**
+- 🤝 Feel free to message me through my email Pedroangert@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
